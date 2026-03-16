@@ -10,6 +10,14 @@ This project solves that problem by converting a Salesforce job description into
 
 The system analyzes the job description using an AI model and produces a recruiter friendly report containing role insights and interview guidance.
 
+## Why This Project Matters
+
+Salesforce hiring often involves recruiters who are not deeply familiar with Salesforce technical terminology.
+
+This tool bridges the gap between technical job descriptions and recruiter screening conversations.
+
+By converting complex Salesforce job descriptions into recruiter friendly insights, the system improves early stage candidate screening and reduces hiring inefficiencies.
+
 ## Problem Statement
 
 Many recruiters who hire Salesforce professionals do not have deep technical knowledge of the Salesforce platform.
