@@ -38,6 +38,23 @@ The generated report includes:
 
 The goal is to help recruiters conduct better initial screening calls even without deep Salesforce expertise.
 
+## Demo
+
+This tool converts a Salesforce job description into a structured recruiter screening guide.
+
+Steps to try the tool:
+
+1. Open the form
+2. Paste a Salesforce job description
+3. Submit the form
+4. Receive a generated screening guide via email
+
+Form link:
+[to be added]
+
+Example output:
+See the examples folder for a generated recruiter screening guide.
+
 ## Technology Stack
 
 This project was built using a no code AI automation architecture.
