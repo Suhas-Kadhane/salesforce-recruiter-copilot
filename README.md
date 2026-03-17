@@ -50,6 +50,12 @@ The goal is to help recruiters conduct better initial screening calls even witho
 
 This tool converts a Salesforce job description into a structured recruiter screening guide.
 
+## Input Form Preview
+
+<p align="center">
+  <img src="screenshots/form-demo.png" width="600"/>
+</p>
+
 Steps to try the tool:
 
 1. Open the form
@@ -57,10 +63,33 @@ Steps to try the tool:
 3. Submit the form
 4. Receive a generated screening guide via email
 
-Form link:
-[to be added]
+Form Link: 
+[See Here](https://docs.google.com/forms/d/e/1FAIpQLSfOwlwlO5B54rqRrW9sIgIaxS86UCku77p-rqPVug8VzXRf1w/formResponse)
 
-Example output:
+## Form Submission Message:
+
+<p align="center">
+  <img src="screenshots/form-submission-message.png" width="600"/>
+</p>
+
+## Automation In Action
+
+<p align="center">
+  <img src="screenshots/automation-scenario.png" width="600"/>
+</p>
+
+## Screening Guide Via Email
+
+<p align="center">
+  <img src="screenshots/screening-guide-via-email.png" width="600"/>
+</p>
+
+## Screening Guide Preview
+
+<p align="center">
+  <img src="screenshots/generated-screening-guide.png" width="600"/>
+</p>
+
 See the examples folder for a generated recruiter screening guide.
 
 ## Technology Stack
