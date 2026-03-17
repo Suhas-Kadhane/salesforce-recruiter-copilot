@@ -242,5 +242,6 @@ By translating complex Salesforce job descriptions into recruiter friendly guida
 The project also demonstrates practical integration of AI APIs with automation platforms to solve real world workflow problems.
 
 ## Author
+**Suhas Kadhane**
 
-Suhas Kadhane
+Salesforce Developer
